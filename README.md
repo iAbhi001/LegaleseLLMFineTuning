@@ -30,6 +30,6 @@ legalese-simplifier/
 
 
 
-For my project, I have uploaded the ZIP File of the Model that I trained in this Repo, If you would like to run this Repo, Please Unzip the folder and populate the required path to the model in app.py code.
+For my project, I have uploaded the ZIP File of the Model that I trained in this Repo, If you would like to run this Repo, Please Unzip the folder and populate the required path to the model in main.py code.
 
 I hope you like this project !!
