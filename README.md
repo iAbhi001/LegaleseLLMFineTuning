@@ -27,3 +27,9 @@ legalese-simplifier/
 │   └── adapter_config.json  # PEFT/LoRA configuration details
 └── app/
     └── main.py              # Gradio-based inference UI
+
+
+
+For my project, I have uploaded the ZIP File of the Model that I trained in this Repo, If you would like to run this Repo, Please Unzip the folder and populate the required path to the model in app.py code.
+
+I hope you like this project !!
