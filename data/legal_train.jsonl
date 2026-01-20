@@ -1,0 +1,71 @@
+{"instruction":"WHEREAS the Software may include experimental components, such components are provided without assurance of stability or continuity.","output":"Some features are experimental and may not work well or stay available."}
+{"instruction":"Notwithstanding prior availability, access tiers may be reclassified based upon aggregate usage patterns.","output":"We may change your plan level based on how much you use the service."}
+{"instruction":"Licensee acknowledges that compatibility with future operating systems is not guaranteed.","output":"The software may not work with future system updates."}
+{"instruction":"Automated updates may be deployed without prior notice to ensure security compliance.","output":"We may update the software automatically to keep it secure."}
+{"instruction":"The License granted herein shall terminate automatically upon violation of acceptable use restrictions.","output":"If you break the usage rules, your license ends automatically."}
+{"instruction":"User-generated scripts shall execute solely at the User’s risk.","output":"If your scripts cause problems, you are responsible."}
+{"instruction":"Access to APIs may be limited to prevent system degradation.","output":"We may restrict API access to protect system performance."}
+{"instruction":"Software performance benchmarks shall not be published without express authorization.","output":"You may not share performance test results without permission."}
+{"instruction":"Temporary credentials issued for testing shall expire without renewal.","output":"Test logins will stop working after a short time."}
+{"instruction":"Licensee agrees that error logs may be transmitted automatically for diagnostics.","output":"We may send error reports automatically to fix issues."}
+{"instruction":"Offline functionality, if any, is provided solely as a convenience.","output":"Offline features are optional and not guaranteed."}
+{"instruction":"The Company disclaims responsibility for third-party plugin failures.","output":"We are not responsible if add-ons from others fail."}
+{"instruction":"Access keys shall be rotated periodically to mitigate security risks.","output":"We may change security keys to keep the system safe."}
+{"instruction":"Licensee shall not circumvent technical limitations embedded in the Software.","output":"You may not bypass built-in software limits."}
+{"instruction":"Beta participation may be revoked at the Company’s discretion.","output":"We can remove you from beta programs at any time."}
+{"instruction":"Service logs may be retained for audit and compliance purposes.","output":"We may keep logs to meet legal or audit needs."}
+{"instruction":"User acknowledges that data latency may occur during synchronization.","output":"Data updates may not appear instantly."}
+{"instruction":"Deprecated features may cease functioning without replacement.","output":"Old features may stop working and not be replaced."}
+{"instruction":"Service credits issued for outages shall constitute the sole remedy.","output":"If the service goes down, credits are the only compensation."}
+{"instruction":"Use of sandbox environments is prohibited for production workloads.","output":"Test environments cannot be used for real operations."}
+{"instruction":"License metrics shall be calculated based on concurrent usage.","output":"Your license limits depend on how many users are active at once."}
+{"instruction":"The Software may collect device identifiers for authentication.","output":"We may collect device IDs to verify access."}
+{"instruction":"Failure to install updates may result in reduced functionality.","output":"Skipping updates can cause the software to work poorly."}
+{"instruction":"Customer support may decline assistance for unsupported configurations.","output":"Support may refuse help if your setup is not supported."}
+{"instruction":"Licensee assumes responsibility for data exported from the platform.","output":"You are responsible for any data you download."}
+{"instruction":"Training environments may differ materially from production systems.","output":"Training systems may not work like real systems."}
+{"instruction":"System capacity allocations are not guaranteed.","output":"We do not promise a fixed amount of system capacity."}
+{"instruction":"The Company may watermark outputs for attribution purposes.","output":"We may mark outputs to show they came from our system."}
+{"instruction":"Access may be geographically restricted based on compliance requirements.","output":"Service access may be blocked in certain locations."}
+{"instruction":"User agrees that language localization may be incomplete.","output":"Some translations may be missing or inaccurate."}
+{"instruction":"Licensee shall not resell access credentials.","output":"You cannot sell your login access."}
+{"instruction":"Software documentation may be updated independently of releases.","output":"Help documents may change without software updates."}
+{"instruction":"Service dependencies may be replaced with functional equivalents.","output":"We may swap system components with similar ones."}
+{"instruction":"Maintenance windows may be extended as operationally necessary.","output":"Maintenance may last longer if needed."}
+{"instruction":"User acknowledges that AI outputs may be probabilistic.","output":"AI results may vary and are not always exact."}
+{"instruction":"Data indexing schedules shall be determined solely by the Company.","output":"We decide when data is indexed."}
+{"instruction":"Usage anomalies may trigger automated access reviews.","output":"Unusual use may cause account checks."}
+{"instruction":"Service entitlements reset at the beginning of each billing cycle.","output":"Usage limits restart each billing period."}
+{"instruction":"Licensee shall ensure adequate internet connectivity.","output":"You must have a reliable internet connection."}
+{"instruction":"Temporary service degradation shall not constitute breach.","output":"Short performance drops do not break the contract."}
+{"instruction":"Export controls may limit access to certain features.","output":"Some features may be blocked due to export laws."}
+{"instruction":"User agrees that timestamps are authoritative records.","output":"System timestamps are the official record."}
+{"instruction":"Service notifications may be delivered in-app only.","output":"Some notices may appear only inside the app."}
+{"instruction":"Usage reports are estimates and not exact measurements.","output":"Usage numbers may be approximate."}
+{"instruction":"System alerts may be suppressed during emergencies.","output":"Alerts may be paused during emergencies."}
+{"instruction":"The Company may deprecate integrations with minimal notice.","output":"We may stop supporting integrations quickly."}
+{"instruction":"User acknowledges reliance on the Service is at their discretion.","output":"You choose how much to rely on the service."}
+{"instruction":"Licenses granted for evaluation prohibit commercial deployment.","output":"Trial licenses cannot be used for business."}
+{"instruction":"Service performance may vary by region.","output":"Speed and quality may differ by location."}
+{"instruction":"User agrees to maintain current contact information.","output":"You must keep your contact details updated."}
+{"instruction":"Feature availability may depend on subscription tier.","output":"Some features require higher plans."}
+{"instruction":"The Company may archive inactive accounts.","output":"Unused accounts may be stored or closed."}
+{"instruction":"User shall not obscure proprietary notices.","output":"You must not remove ownership notices."}
+{"instruction":"Service dependencies may experience upstream outages.","output":"Problems with partners may affect service."}
+{"instruction":"Data schemas may evolve over time.","output":"Data formats may change."}
+{"instruction":"Licensee accepts responsibility for user permissions.","output":"You manage who can access your account."}
+{"instruction":"Service tutorials are provided without certification.","output":"Training does not give official credentials."}
+{"instruction":"User acknowledges possible false positives in monitoring.","output":"Monitoring may sometimes be wrong."}
+{"instruction":"Service availability may be impacted by compliance audits.","output":"Audits may temporarily affect access."}
+{"instruction":"The Company may enforce fair-use thresholds.","output":"We may limit excessive use."}
+{"instruction":"User agrees that system messages are non-negotiable.","output":"System notices cannot be changed."}
+{"instruction":"Temporary access grants do not imply permanence.","output":"Short-term access does not mean permanent access."}
+{"instruction":"Service dependencies may require periodic reauthorization.","output":"Some connections may need renewal."}
+{"instruction":"Licensee shall ensure lawful use in all jurisdictions.","output":"You must follow local laws when using the software."}
+{"instruction":"System migrations may alter feature behavior.","output":"Updates may change how features work."}
+{"instruction":"The Company may publish anonymized usage insights.","output":"We may share anonymous usage statistics."}
+{"instruction":"User acknowledges that rollback functionality is limited.","output":"Undo options may be limited."}
+{"instruction":"Service-level objectives are targets, not guarantees.","output":"Performance goals are not promises."}
+{"instruction":"Licensee shall validate outputs independently.","output":"You must check results yourself."}
+{"instruction":"Feature flags may enable or disable functions dynamically.","output":"Features may turn on or off automatically."}
+{"instruction":"Service access may be suspended for security investigations.","output":"We may pause access to investigate security issues."}
